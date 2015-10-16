@@ -25,3 +25,5 @@ plan.pddl
 problem.pddl
 *.kde4
 *~
+squirrel_recommender/scripts/mmr_mmmvr/__pycache__/*
+
